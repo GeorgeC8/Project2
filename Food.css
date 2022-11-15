@@ -1,0 +1,37 @@
+body{
+    background: url("image (1).jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+   
+    
+    }
+    
+    
+    
+    a{
+        color:blue;
+    }
+     @media screen and (min-width: 1024px) { 
+      
+            .info{
+                text-align: center;
+                
+            }
+            .container{
+                display:flex;
+                flex-wrap:wrap;
+                flex-direction:row;
+                justify-content:space-between;
+            }
+        
+            .visual{
+                width:400px;
+                height:300px;
+            }
+            }
+      
+   
+      

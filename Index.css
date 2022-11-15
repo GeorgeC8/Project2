@@ -1,0 +1,19 @@
+body{
+background: url("387606063_408c203f6c_b.jpg") no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+display:grid;
+
+}
+
+
+
+a{
+    color:blue;
+}
+@media screen and (min-width: 1024px) {
+
+  }
